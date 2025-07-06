@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I a developer to solving problems, with my experiences as Analyzer of Process Management and Software Developer Student I'm developing and getting experiences guiding people, control processes, and Developer power tools with Microsoft Enviroment and Programming Languages.
+I'm a developer to solving problems, with my experiences as Analyzer of Process Management and Software Developer Student I'm developing and getting experiences guiding people, control processes, and Developer power tools with Microsoft Enviroment and Programming Languages.
 
 I have these skills:
 Programmer and developer with the following programming languages: Python, Javascript, C#, SQL
